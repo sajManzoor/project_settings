@@ -1,0 +1,9 @@
+# Any line starting with '#' is considered comment
+# Put file and directory path separated by new-line for test collection
+# Any path starting with '!' will not be collected
+
+
+scripts\Label\
+!scripts\offlineMode\
+
+
